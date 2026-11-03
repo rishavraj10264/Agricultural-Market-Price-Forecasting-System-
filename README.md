@@ -1,9 +1,9 @@
-::: {align="center"}
+
 # 🌾 Agricultural Market Price Forecasting System
 
 ### Deep Learning--Based Time-Series Analysis and Price Forecasting
 
-**Group 8 · Section C3**
+**Group 8 · 
 
 A notebook-based project exploring historical agricultural market prices
 in Telangana and comparing three deep-learning approaches: **GRU, LSTM
@@ -403,12 +403,7 @@ the notebook code has been modified.
 -   **Reproducibility:** Results may vary depending on the input CSV
     files, execution environment and model-training randomness.
 
-## 👥 Team
 
-**Group 8 -- Section C3**
-
-Add the names and contributions of all team members here before final
-submission.
 
 ## 📄 License
 
@@ -418,7 +413,7 @@ dataset's own license separately.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 **🌾 Agricultural Market Price Forecasting System**
 
 *Exploring agricultural price trends through time-series analysis and
